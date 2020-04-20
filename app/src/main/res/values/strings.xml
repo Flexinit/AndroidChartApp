@@ -1,0 +1,15 @@
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Repent Kenya</string>
+    <string name="menu_calllogs">Call Logs</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="FACEBOOK_APP_ID">298245234408398</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">0bd6c9ac982ee6fa28a2c2937e169063</string>
+
+    <!-- Get your own google API key from
+         https://developers.google.com/maps/documentation/android-sdk/signup
+          -->
+    <string name="GOOGLE_MAP_KEY">GET YOUR KEY</string>
+
+</resources>
